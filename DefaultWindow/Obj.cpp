@@ -20,3 +20,5 @@ void CObj::Update_Rect()
 	m_tRect.right	= LONG(m_tInfo.fX + (m_tInfo.fCX * 0.5f));
 	m_tRect.bottom	= LONG(m_tInfo.fY + (m_tInfo.fCY * 0.5f));
 }
+
+//Å×½ºÆ®2
