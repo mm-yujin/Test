@@ -20,7 +20,7 @@ void CMainGame::Initialize(void)
 		m_pPlayer = new CPlayer;
 		m_pPlayer->Initialize();
 	}	
-
+	// Å×½ºÆ®
 }
 
 void CMainGame::Update(void)
